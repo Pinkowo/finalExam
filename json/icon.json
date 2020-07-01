@@ -1,0 +1,25 @@
+{
+    "drawer":{
+        "profile":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/icon/profile.png?raw=true",
+        "downArrow":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/icon/btn_down_arrow.png?raw=true",
+        "Home":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/icon/home.png?raw=true",
+        "MyBook":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/icon/book2.png?raw=true",
+        "MyBookIsClicked":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/icon/book2.png?raw=true",
+        "Favorites":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/icon/heart.png?raw=true",
+        "Settings":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/icon/setting.png?raw=true",
+        "AboutUs":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/icon/info.png?raw=true"
+    },
+    "header":{
+        "hamburger":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/icon/btn_navbar_mobile.png?raw=true",
+        "search":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/icon/btn_search.png?raw=true"
+    },
+    "bottom":{
+        "Home":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/icon/home.png?raw=true",
+        "MyBook":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/icon/book3.png?raw=true",
+        "Favorites":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/icon/heart.png?raw=true",
+        "bottomIconColor":[
+            "#818181",
+            "#00b49f"
+        ]
+    }
+}
